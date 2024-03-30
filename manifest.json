@@ -1,0 +1,14 @@
+{
+  "name": "Moonheim-Modpack",
+  "version_number": "0.0.1",
+  "website_url": "https://moonheim.grizzlebees.net/",
+  "description": "Custom ModPack for the Moonheim server",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "shudnal-Seasons-1.1.8",
+    "BentoG-MissingPieces-2.0.8",
+    "OdinPlus-OdinArchitect-1.2.7",
+    "ValheimModding-Jotunn-2.18.1",
+    "OdinPlus-OdinsFoodBarrels-1.0.17"
+    ]
+}
