@@ -1,7 +1,7 @@
 {
   "name": "Moonheim-Modpack",
   "version_number": "0.0.1",
-  "website_url": "https://moonheim.grizzlebees.net/",
+  "website_url": "https://grizzlebees.net/moonheim/",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
