@@ -1,6 +1,6 @@
 {
-  "name": "Moonheim-Modpack",
-  "version_number": "0.0.2",
+  "name": "MoonheimModpack",
+  "version_number": "0.0.3",
   "website_url": "https://grizzlebees.net/moonheim/",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
