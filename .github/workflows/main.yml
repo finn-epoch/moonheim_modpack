@@ -13,13 +13,13 @@ jobs:
       - uses: actions/checkout@v3
       - uses: GreenTF/upload-thunderstore-package@v4.2
         with:
-          namespace: Moonheim # the thunderstore 'team' to publish under
+          namespace: Moonheim
           description: Test 
           token: ${{ secrets.THUNDERSTORE_API_TOKEN }}
-          name: MoonheimModpack # the name of the package
-          version: ${{ github.ref_name }} # Use the tag as the package version
+          name: MoonheimModpack
+          version: ${{ github.ref_name }}
           community: Valheim
           repo: valheim.thunderstore.io
-          categories: | # <-- notice this pipe character
+          categories: |
             hildirs-request-update
             modpacks
