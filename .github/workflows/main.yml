@@ -1,0 +1,25 @@
+name: Publish Mod
+
+# Run when a new release is... released
+on: 
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Use checkout to publish the files in your repo
+      - uses: actions/checkout@v3
+      - uses: GreenTF/upload-thunderstore-package@v4.2
+        with:
+          namespace: Moonheim # the thunderstore 'team' to publish under
+          description: Test 
+          token: ${{ secrets.THUNDERSTORE_API_TOKEN }}
+          name: MoonheimModpack # the name of the package
+          version: ${{ github.ref_name }} # Use the tag as the package version
+          community: Valheim
+          repo: valheim.thunderstore.io
+          categories: | # <-- notice this pipe character
+            hildirs-request-update
+            modpacks
