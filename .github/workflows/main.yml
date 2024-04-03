@@ -14,11 +14,11 @@ jobs:
       - uses: GreenTF/upload-thunderstore-package@v4.2
         with:
           namespace: Moonheim
-          description: Test 
+          description: A collection of mods for the Moonheim server 
           token: ${{ secrets.THUNDERSTORE_API_TOKEN }}
           name: MoonheimModpack
           version: ${{ github.ref_name }}
-          community: Valheim
+          community: valheim
           repo: valheim.thunderstore.io
           categories: |
             hildirs-request-update
