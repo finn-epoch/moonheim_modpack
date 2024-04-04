@@ -1,11 +1,11 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "0.0.3",
+  "version_number": "1.0.1",
   "website_url": "https://grizzlebees.net/moonheim/",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "ValheimModding-Jotunn-2.18.1",
+    "ValheimModding-Jotunn-2.18.2",
     "Advize-PlantEasily-1.7.2",
     "Advize-PlantEverything-1.16.2",
     "Azumatt-AzuCraftyBoxes-1.2.9",
