@@ -13,6 +13,7 @@ Updated Mods:
 Set configuration:
 
   - Recycle_N_Reclaim
+  - AzuWorkbenchTweaks
 
 ## [v1.0.2]
 
