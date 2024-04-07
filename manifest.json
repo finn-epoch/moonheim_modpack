@@ -1,6 +1,6 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://grizzlebees.net/moonheim/",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
@@ -15,6 +15,7 @@
     "OdinPlus-OdinArchitect-1.2.7",
     "OdinPlus-Clutter-0.1.5",
     "OdinPlus-OdinsFoodBarrels-1.0.17",
-    "shudnal-Seasons-1.1.8"
+    "shudnal-Seasons-1.1.8",
+    "Amar1729-BetterLadders-0.2.0"
     ]
 }
