@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.1.1]
+
+  - Updated Jotunn, PlantEasily versions
+  - Added Better_Cartography_Table, Eternal_Fire
+
 ## [v1.1.0]
 
   - Added Valheim.mods file for GTX Game Servers
@@ -57,7 +62,8 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
-[v1.0.7]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.6...v1.1.0
+[v1.1.1]: https://github.com/finn-epoch/moonheim_modpack/compare/1.0.1...v1.1.1
+[v1.1.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.6...1.1.0
 [v1.0.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.5...v1.0.6
 [v1.0.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.4...v1.0.5
 [v1.0.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.3...v1.0.4
