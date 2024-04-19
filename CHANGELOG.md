@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.1.2]
+
+  - Updated PlantEverything
+  - Added Quick Stack Sort Trash Restock, MultiUserChest, DynamicStoragePiles, Brynsten
+
 ## [v1.1.1]
 
   - Updated Jotunn, PlantEasily versions
@@ -62,6 +67,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.1.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.1...v1.1.2
 [v1.1.1]: https://github.com/finn-epoch/moonheim_modpack/compare/1.0.1...v1.1.1
 [v1.1.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.6...1.1.0
 [v1.0.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.5...v1.0.6
