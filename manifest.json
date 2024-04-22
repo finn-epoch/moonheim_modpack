@@ -1,6 +1,6 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.1.2",
+  "version_number": "1.1.3",
   "website_url": "https://github.com/finn-epoch/moonheim_modpack",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
@@ -9,12 +9,12 @@
     "Advize-PlantEasily-1.7.3",
     "Advize-PlantEverything-1.16.5",
     "Azumatt-AzuCraftyBoxes-1.2.9",
-    "Azumatt-AzuWorkbenchTweaks-1.0.2",
+    "Azumatt-AzuWorkbenchTweaks-1.0.3",
     "Azumatt-Recycle_N_Reclaim-1.3.3",
     "BentoG-MissingPieces-2.1.0",
     "OdinPlus-OdinArchitect-1.2.7",
     "OdinPlus-Clutter-0.1.5",
-    "OdinPlus-OdinsFoodBarrels-1.0.17",
+    "OdinPlus-OdinsFoodBarrels-1.0.18",
     "shudnal-Seasons-1.1.8",
     "Amar1729-BetterLadders-0.2.0",
     "ComfyMods-SearsCatalog-1.4.0",
@@ -23,6 +23,8 @@
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.7",
     "MSchmoecker-MultiUserChest-0.5.10",
     "MSchmoecker-DynamicStoragePiles-0.5.1",
-    "Mordack7-Brynsten-1.0.0"
+    "Mordack7-Brynsten-1.0.0",
+    "JereKuusela-Item_Stand_All_Items-1.20.0",
+    "MySoloTeam-IngotStacks-1.0.1"
     ]
 }

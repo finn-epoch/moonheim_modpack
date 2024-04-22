@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.1.3]
+
+  - Updated AzuWorkbenchTweaks, OdinsFoodBarrels
+  - Added Item_Stand_All_Items, IngotStacks
+
 ## [v1.1.2]
 
   - Updated PlantEverything
@@ -67,6 +72,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.1.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.2...v1.1.3
 [v1.1.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.1...v1.1.2
 [v1.1.1]: https://github.com/finn-epoch/moonheim_modpack/compare/1.0.1...v1.1.1
 [v1.1.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.0.6...1.1.0
