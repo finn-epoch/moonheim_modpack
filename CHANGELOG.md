@@ -1,5 +1,11 @@
 # [Changelog]
 
+## [v1.1.4]
+
+  - Updated Jotunn
+  - Removed Better_Cartography_Table, Brynsten
+  - Added ServerSideMap
+  
 ## [v1.1.3]
 
   - Updated AzuWorkbenchTweaks, OdinsFoodBarrels
@@ -72,6 +78,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.1.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.3...v1.1.4
 [v1.1.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.2...v1.1.3
 [v1.1.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.1...v1.1.2
 [v1.1.1]: https://github.com/finn-epoch/moonheim_modpack/compare/1.0.1...v1.1.1
