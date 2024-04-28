@@ -1,11 +1,11 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.1.3",
+  "version_number": "1.1.4",
   "website_url": "https://github.com/finn-epoch/moonheim_modpack",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "ValheimModding-Jotunn-2.19.2",
+    "ValheimModding-Jotunn-2.19.3",
     "Advize-PlantEasily-1.7.3",
     "Advize-PlantEverything-1.16.5",
     "Azumatt-AzuCraftyBoxes-1.2.9",
@@ -18,13 +18,12 @@
     "shudnal-Seasons-1.1.8",
     "Amar1729-BetterLadders-0.2.0",
     "ComfyMods-SearsCatalog-1.4.0",
-    "nbusseneau-Better_Cartography_Table-0.3.0",
     "Digitalroot-Eternal_Fire-1.0.1",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.7",
     "MSchmoecker-MultiUserChest-0.5.10",
     "MSchmoecker-DynamicStoragePiles-0.5.1",
-    "Mordack7-Brynsten-1.0.0",
     "JereKuusela-Item_Stand_All_Items-1.20.0",
-    "MySoloTeam-IngotStacks-1.0.1"
+    "MySoloTeam-IngotStacks-1.0.1",
+    "Mydayyy-ServerSideMap-1.3.11"
     ]
 }
