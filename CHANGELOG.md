@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.1.5]
+
+  - Updated Seasons
+
 ## [v1.1.4]
 
   - Updated Jotunn
@@ -78,6 +82,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.1.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.4...v1.1.5
 [v1.1.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.3...v1.1.4
 [v1.1.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.2...v1.1.3
 [v1.1.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.1...v1.1.2
