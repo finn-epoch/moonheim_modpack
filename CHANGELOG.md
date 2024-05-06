@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.1.6]
+
+  - Updated Jotunn
+  - Added TorchesAreFire
+
 ## [v1.1.5]
 
   - Updated Seasons
@@ -82,6 +87,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.1.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.5...v1.1.6
 [v1.1.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.4...v1.1.5
 [v1.1.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.3...v1.1.4
 [v1.1.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.2...v1.1.3
