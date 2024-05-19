@@ -1,6 +1,6 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.2.0",
+  "version_number": "1.2.1",
   "website_url": "https://github.com/finn-epoch/moonheim_modpack",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
@@ -21,7 +21,7 @@
     "Digitalroot-Eternal_Fire-1.0.5",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.7",
     "MSchmoecker-MultiUserChest-0.5.10",
-    "MSchmoecker-DynamicStoragePiles-0.5.1",
+    "MSchmoecker-DynamicStoragePiles-0.6.0",
     "JereKuusela-Item_Stand_All_Items-1.21.0",
     "MySoloTeam-IngotStacks-1.0.1",
     "Mydayyy-ServerSideMap-1.3.11",
