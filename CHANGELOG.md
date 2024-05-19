@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.2.0]
+
+  - Updated Jotunn, PlantEasily, PlantEverything, AzuCraftyBoxes, Recycle_N_Reclaim, MissingPieces, Clutter, OdinsFoodBarrels, Seasons, EternalFire, Item_Stand_All_Items, TorchesAreFire
+
 ## [v1.1.6]
 
   - Updated Jotunn
@@ -87,6 +91,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.2.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.6...v1.2.0
 [v1.1.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.5...v1.1.6
 [v1.1.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.4...v1.1.5
 [v1.1.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.3...v1.1.4
