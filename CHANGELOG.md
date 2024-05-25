@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.2.2]
+
+  - Updated AzuCraftyBoxes, Clutter, OdinArchitect, OdinsFoodBarrels
+
 ## [v1.2.1]
 
   - Updated DynamicStoragePiles
@@ -95,6 +99,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.2.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.1...v1.2.2
 [v1.2.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.0...v1.2.1
 [v1.2.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.6...v1.2.0
 [v1.1.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.1.5...v1.1.6
