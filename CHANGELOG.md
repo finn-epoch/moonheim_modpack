@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.2.4]
+
+  - Added BiggerMinimapDiscoveryRadius
+  - Updated Jotunn, OdinsFoodBarrels, Seasons
+
 ## [v1.2.3]
 
   - Updated PlantEverything
@@ -103,6 +108,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.2.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.3...v1.2.4
 [v1.2.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.2...v1.2.3
 [v1.2.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.1...v1.2.2
 [v1.2.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.0...v1.2.1
