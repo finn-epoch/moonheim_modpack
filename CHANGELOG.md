@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.2.6]
+
+  - Updated AzuCrafyBoxes, PlantEasily
+
 ## [v1.2.5]
 
   - Updated EternalFire
@@ -112,6 +116,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.2.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.5...v1.2.6
 [v1.2.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.4...v1.2.5
 [v1.2.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.3...v1.2.4
 [v1.2.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.2...v1.2.3
