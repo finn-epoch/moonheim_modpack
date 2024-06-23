@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.2.9]
+
+  - Updated TorchesAreFires
+  - Added TargetPortal
+
 ## [v1.2.8]
 
   - Added AzuExtendedPlayerInventory
@@ -124,6 +129,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.2.9]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.8...v1.2.9
 [v1.2.8]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.7...v1.2.8
 [v1.2.7]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.6...v1.2.7
 [v1.2.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.5...v1.2.6
