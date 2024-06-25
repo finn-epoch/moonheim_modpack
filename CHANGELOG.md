@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.3.0]
+
+  - Updated EternalFire
+
 ## [v1.2.9]
 
   - Updated TorchesAreFires
@@ -129,6 +133,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.3.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.9...v1.3.0
 [v1.2.9]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.8...v1.2.9
 [v1.2.8]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.7...v1.2.8
 [v1.2.7]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.6...v1.2.7

@@ -1,6 +1,6 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.2.9",
+  "version_number": "1.3.0",
   "website_url": "https://github.com/finn-epoch/moonheim_modpack",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
@@ -18,7 +18,7 @@
     "shudnal-Seasons-1.2.1",
     "Amar1729-BetterLadders-0.2.0",
     "ComfyMods-SearsCatalog-1.5.1",
-    "Digitalroot-Eternal_Fire-1.0.10",
+    "Digitalroot-Eternal_Fire-1.0.13",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.7",
     "MSchmoecker-MultiUserChest-0.5.10",
     "MSchmoecker-DynamicStoragePiles-0.6.0",
