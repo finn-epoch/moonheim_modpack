@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.3.1]
+
+  - Updated DynamicStoragePiles, QuickStackStoreSortTrashRestock, Seasons
+
 ## [v1.3.0]
 
   - Updated EternalFire
@@ -133,6 +137,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.3.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.0...v1.3.1
 [v1.3.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.9...v1.3.0
 [v1.2.9]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.8...v1.2.9
 [v1.2.8]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.2.7...v1.2.8
