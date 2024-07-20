@@ -1,5 +1,11 @@
 # [Changelog]
 
+## [v1.3.4]
+
+  - Added ValheimRAFT
+  - Updated Seasons, AzuCraftyBoxes
+
+
 ## [v1.3.3]
 
   - Updated Seasons, AzuCraftyBoxes
@@ -145,6 +151,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.3.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.3...v1.3.4
 [v1.3.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.2...v1.3.3
 [v1.3.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.1...v1.3.2
 [v1.3.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.0...v1.3.1
