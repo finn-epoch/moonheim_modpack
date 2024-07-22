@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.3.6]
+
+  - Added OdinShipPlus
+
 ## [v1.3.5]
 
   - Removed ValheimRAFT
@@ -156,6 +160,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.3.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.5...v1.3.6
 [v1.3.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.4...v1.3.5
 [v1.3.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.3...v1.3.4
 [v1.3.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.2...v1.3.3
