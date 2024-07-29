@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.3.7]
+
+  - Updated OdinsFoodBarrels (Added Ashlands Food Item Barrels/Baskets), Seasons
+
 ## [v1.3.6]
 
   - Added OdinShipPlus
