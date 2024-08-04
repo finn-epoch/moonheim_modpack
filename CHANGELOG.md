@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.3.9]
+
+  - Removed BeehiveUtils_Revived
+  - Added HoneyPlease
+
 ## [v1.3.8]
 
   - Updated Jotunn, Seasons, OdinShipPlus
@@ -169,6 +174,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.3.9]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.8...v1.3.9
 [v1.3.8]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.7...v1.3.8
 [v1.3.7]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.6...v1.3.7
 [v1.3.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.5...v1.3.6
