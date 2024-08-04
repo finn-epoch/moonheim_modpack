@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.3.8]
+
+  - Updated Jotunn, Seasons, OdinShipPlus
+  - Added MyDirtyHoe, BeehiveUtils_Revived
+
 ## [v1.3.7]
 
   - Updated OdinsFoodBarrels (Added Ashlands Food Item Barrels/Baskets), Seasons
@@ -164,6 +169,8 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.3.8]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.7...v1.3.8
+[v1.3.7]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.6...v1.3.7
 [v1.3.6]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.5...v1.3.6
 [v1.3.5]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.4...v1.3.5
 [v1.3.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.3...v1.3.4

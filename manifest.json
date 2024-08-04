@@ -1,11 +1,11 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.3.7",
+  "version_number": "1.3.8",
   "website_url": "https://github.com/finn-epoch/moonheim_modpack",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "ValheimModding-Jotunn-2.20.1",
+    "ValheimModding-Jotunn-2.20.2",
     "Advize-PlantEasily-1.8.1",
     "Advize-PlantEverything-1.18.1",
     "Azumatt-AzuCraftyBoxes-1.5.2",
@@ -15,7 +15,7 @@
     "OdinPlus-OdinArchitect-1.3.0",
     "plumga-Clutter-0.1.7",
     "OdinPlus-OdinsFoodBarrels-1.0.26",
-    "shudnal-Seasons-1.3.3",
+    "shudnal-Seasons-1.3.6",
     "Amar1729-BetterLadders-0.2.0",
     "ComfyMods-SearsCatalog-1.5.1",
     "Digitalroot-Eternal_Fire-1.0.13",
@@ -29,6 +29,8 @@
     "FXCK_U2-BiggerMinimapDiscoveryRadius-3.6.17",
     "Azumatt-AzuExtendedPlayerInventory-1.4.3",
     "Smoothbrain-TargetPortal-1.1.20",
-    "Marlthon-OdinShipPlus-0.5.4"
+    "Marlthon-OdinShipPlus-0.5.5",
+    "MagicMike-MyDirtyHoe-1.2.3",
+    "JustMennowar-BeehiveUtils_Revived-1.0.2"
     ]
 }
