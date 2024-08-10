@@ -1,5 +1,10 @@
 # [Changelog]
 
+## [v1.4.1]
+
+  - Added NoSmokeStayLit
+  - Removed EternalFire
+
 ## [v1.4.0]
 
   - Added PetPantry, YolkMe
@@ -178,6 +183,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.4.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.0...v1.4.1
 [v1.4.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.9...v1.4.0
 [v1.3.9]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.8...v1.3.9
 [v1.3.8]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.7...v1.3.8
