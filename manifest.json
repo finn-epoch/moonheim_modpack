@@ -1,11 +1,11 @@
 {
   "name": "MoonheimModpack",
-  "version_number": "1.4.1",
+  "version_number": "1.4.2",
   "website_url": "https://github.com/finn-epoch/moonheim_modpack",
   "description": "Custom ModPack for the Moonheim server",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "ValheimModding-Jotunn-2.20.2",
+    "ValheimModding-Jotunn-2.20.3",
     "Advize-PlantEasily-1.8.1",
     "Advize-PlantEverything-1.18.1",
     "Azumatt-AzuCraftyBoxes-1.5.2",
@@ -15,7 +15,7 @@
     "OdinPlus-OdinArchitect-1.3.0",
     "plumga-Clutter-0.1.7",
     "OdinPlus-OdinsFoodBarrels-1.0.26",
-    "shudnal-Seasons-1.3.6",
+    "shudnal-Seasons-1.3.8",
     "Amar1729-BetterLadders-0.2.0",
     "ComfyMods-SearsCatalog-1.5.1",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.8",
@@ -33,6 +33,7 @@
     "TastyChickenLegs-HoneyPlease-1.2.7",
     "Azumatt-PetPantry-1.0.2",
     "EardwulfDoesMods-YolkMe-1.0.0",
-    "TastyChickenLegs-NoSmokeStayLit-2.3.3"
+    "TastyChickenLegs-NoSmokeStayLit-2.3.3",
+    "shudnal-RockTheBoat-1.0.5"
     ]
 }
