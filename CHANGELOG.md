@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.4.3]
+
+  - Updated AzuCraftyBoxes, OdinShipPlus, Seasons
+
 ## [v1.4.2]
 
   - Added RockTheBoat
@@ -188,6 +192,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.4.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.2...v1.4.3
 [v1.4.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.1...v1.4.2
 [v1.4.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.0...v1.4.1
 [v1.4.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.3.9...v1.4.0
