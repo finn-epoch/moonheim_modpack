@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Use checkout to publish the files in your repo
-      - uses: actions/checkout@v3
-      - uses: GreenTF/upload-thunderstore-package@v4.2
+      - uses: actions/checkout@v4
+      - uses: GreenTF/upload-thunderstore-package@v4.3
         with:
           namespace: Moonheim
           description: A collection of mods for the Moonheim server 
