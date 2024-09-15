@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v1.5.0]
+
+  - Updated RockTheBoat
+
 ## [v1.4.4]
 
   - Updated MyDirtyHoe, Seasons
@@ -196,6 +200,7 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+[v1.5.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.4...v1.5.0
 [v1.4.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.2...v1.4.4
 [v1.4.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.2...v1.4.3
 [v1.4.2]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.1...v1.4.2
