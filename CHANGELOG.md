@@ -1,5 +1,14 @@
 # [Changelog]
 
+## [v2.0.0]
+
+  - Clean slate, starting with minimal set: 
+    - PlantEasily
+    - PlantEverything
+    - AzuCraftyBoxes
+    - MultiUserChest
+    - Seasons
+
 ## [v1.5.0]
 
   - Updated RockTheBoat
@@ -200,6 +209,8 @@ Added Mods:
   - Seasons
   - Created basic package skeleton based on the [docs]
 
+
+[v2.0.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.5.0...v2.0.0
 [v1.5.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.4...v1.5.0
 [v1.4.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.2...v1.4.4
 [v1.4.3]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.2...v1.4.3
