@@ -1,6 +1,6 @@
 # README.md
 
-A collection of mods for the Moonheim server focused on QoL & additional Valheim-appropriate build pieces
+A collection of mods for the Moonheim server focused on QoL
 
 [markdown]: https://daringfireball.net/projects/markdown/
 [gfm]: https://github.github.com/gfm/
