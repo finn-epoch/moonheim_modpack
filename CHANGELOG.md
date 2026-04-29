@@ -1,5 +1,9 @@
 # [Changelog]
 
+## [v2.0.1]
+
+  - Added NoSmokeStayLit, ServerSideMap, Server devcommands
+
 ## [v2.0.0]
 
   - Clean slate, starting with minimal set: 
@@ -210,6 +214,7 @@ Added Mods:
   - Created basic package skeleton based on the [docs]
 
 
+[v2.0.1]: https://github.com/finn-epoch/moonheim_modpack/compare/v2.0.0...v2.0.1
 [v2.0.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.5.0...v2.0.0
 [v1.5.0]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.4...v1.5.0
 [v1.4.4]: https://github.com/finn-epoch/moonheim_modpack/compare/v1.4.2...v1.4.4
